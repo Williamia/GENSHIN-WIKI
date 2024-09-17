@@ -1,0 +1,19 @@
+.centerdv{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.container-images{
+    width: 90%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    column-count: 5;
+}
+
+.container-images img{
+    width: 100%;
+    margin-bottom: 5px;
+    border: 1px solid black;
+    border-radius: 3px;
+}
