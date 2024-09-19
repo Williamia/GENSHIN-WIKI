@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Layout from "./components/Layout/layout";
-import './app.css'
+import './App.css'
 import { fetchCharacters } from './api';
 
 function App() {
